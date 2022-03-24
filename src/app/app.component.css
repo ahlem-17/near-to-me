@@ -1,0 +1,9 @@
+.pinboard {
+    border: solid pink 6px;
+    height: 400px;
+    width: 400px;
+}
+
+agm-map {
+    height: 400px;
+}
